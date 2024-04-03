@@ -12,12 +12,13 @@ Report of the above project have been attached for reference , you can find the 
 
 #TABLEAU
 
-For Tableau users i am here attaching the link :
-https://prod-apsoutheast-a.online.tableau.com/#/site/rishiramb/projects/469233?:origin=card_share_link
+I have included the Tableau files (.tbwx) , can be opened using tableu software.I am not expert in making Presentations in Tableau but i have done a basic presentation in Tableau.
 
 #PRESENTATION 
 
-For non-Tableau Users , you can follow the actual internship report pdf or else tableau ppt.
+I have attached a brief presentation on my overall internship and contains the basic ideas of pathway i have choosen to complete this project.
+
+NOTE : This is edited after 2 months of actual repository , after further learning of python and its packages.I found that i can optimise this code and its under work and soon i will be adding next version of .py file in this same repositary
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
